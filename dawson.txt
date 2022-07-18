@@ -1,1 +1,3 @@
 Hey What are you looking for?? 
+server -Index
+Chakra -- Component library --They have prebuilt components inside them that makes the app very fast..

@@ -4,7 +4,7 @@
   "description": "This is a chat application created using MERN and socket.io..",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon backend/index.js"
+    "start": "nodemon backend/index.js --ignore './frontend/'"
   },
   "repository": {
     "type": "git",

@@ -1,3 +1,5 @@
 Hey What are you looking for?? 
 server -Index
 Chakra -- Component library --They have prebuilt components inside them that makes the app very fast..
+Box-- Same as Div
+Container-- Helps to make the app responsive in different screens

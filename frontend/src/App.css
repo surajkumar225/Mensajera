@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@800&family=Anton&family=Archivo&family=Barlow+Condensed:ital,wght@0,500;1,600&family=Bebas+Neue&family=Cabin:wght@700&family=Caveat&family=Changa:wght@200&family=Crete+Round&family=Dhurjati&family=Dongle&family=Dosis:wght@700&family=Fjalla+One&family=Inconsolata:wght@300&family=Indie+Flower&family=Josefin+Sans:wght@200&family=Kanit:wght@100&family=Lato:wght@100&family=Lobster&family=Magra:wght@700&family=Montserrat:wght@600;700&family=Moo+Lah+Lah&family=Open+Sans:wght@300;500&family=Oswald:wght@200&family=PT+Sans+Narrow&family=Padauk:wght@700&family=Patrick+Hand&family=Pragati+Narrow&family=Prompt:wght@700&family=Raleway:wght@100&family=Righteous&family=Roboto+Condensed:wght@300&family=Roboto:wght@300&family=Rubik:wght@500&family=Saira+Condensed:wght@400;900&family=Secular+One&family=Seymour+One&family=Shadows+Into+Light&family=Source+Code+Pro:wght@200&family=Teko:wght@300&family=Work+Sans:wght@300&family=Yanone+Kaffeesatz:wght@200&display=swap');
+
+.App{
+    min-height: 100vh;
+    display: flex;
+    background-image: url("./background.jpg");
+    background-size: cover;
+    background-position: center;
+}

@@ -7,7 +7,6 @@ const userModel = mongoose.Schema(
     password: { type: String, required: true },
     pic: {
       type: String,
-      required: true,
       default:
         "https://brighterwriting.com/wp-content/uploads/icon-user-default-420x420.png",
     },

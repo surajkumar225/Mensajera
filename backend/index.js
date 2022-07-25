@@ -8,6 +8,8 @@ const app = express();
 dotenv.config();
 connectDB();
 
+app.use(express.json()); //To accept json data
+
 app.get("/", (req, res) => {
   res.send("API is running successfully");
 });

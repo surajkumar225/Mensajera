@@ -1,13 +1,13 @@
 const express = require("express");
 const dotenv = require("dotenv");
-const { chats } = require("./data/data.js");
-const connectDB = require("./Config/db.js");
-const userRoutes = require("./Routes/userRoutes");
+// const { chats } = require("./data/data.js");
+// const connectDB = require("./Config/db.js");
+// const userRoutes = require("./Routes/userRoutes");
 
 const app = express();
 dotenv.config();
 connectDB();
-  
+
 app.use(express.json()); //To accept json data
 
 app.get("/", (req, res) => {
